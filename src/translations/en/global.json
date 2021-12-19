@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "Welcome": "Welcome",
+    "Portfolio": "to my portfolio",
+    "Subtitle": "Find information about me",
+    "Navbar": {
+      "brand": "Navbar",
+      "home": "Home",
+      "contact": "Contact",
+      "skill": "Skill",
+      "about": "About"
+    },
+    "Button": {
+      "spanish": "Spanish",
+      "english": "English"
+    }
+  }
+}
